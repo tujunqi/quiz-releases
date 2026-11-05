@@ -1,1 +1,1 @@
-{"ver":"1.17","tag":"v1.17","apk":"dist/quiz-v1.17.apk","name":"quiz-v1.17.apk","size":626254,"published":"2026-11-05","notes":"更新链路改造：jsDelivr CDN 独立源（不连 GitHub 也能检查+下载）+ 多镜像兜底；含统计学 Stata 上机 5 章与模拟考试考后自评"}
+{"ver": "1.18", "tag": "v1.18", "apk": "dist/quiz-v1.18.apk", "name": "quiz-v1.18.apk", "size": 626254, "published": "2026-11-05", "notes": "开屏自动检查更新：发现新版直接弹窗；暂不48h免打扰。含统计学Stata上机5章、模拟考试考后自评、四学科866题"}
