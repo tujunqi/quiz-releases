@@ -1,1 +1,1 @@
-{"ver": "1.19", "tag": "v1.19", "apk": "dist/quiz-v1.19.apk", "name": "quiz-v1.19.apk", "size": 626254, "published": "2026-11-06", "notes": "更新源调序：镜像优先保证新鲜；开屏自动检查更新；含统计学Stata上机5章、模拟考试考后自评、五分支866题"}
+{"ver": "1.20", "tag": "v1.20", "apk": "dist/quiz-v1.20.apk", "name": "quiz-v1.20.apk", "size": 626254, "published": "2026-11-08", "notes": "A批修复：$吞字/导入校验/题库体检闸门/截图重拍"}
