@@ -1,1 +1,1 @@
-{"ver": "1.30", "tag": "v1.30", "apk": "dist/quiz-v1.30.apk", "name": "quiz-v1.30.apk", "size": 942150, "published": "2026-11-11", "notes": "六级优化：竖屏锁定 + 写作替换词（按水平重组范文）"}
+{"ver": "1.31", "tag": "v1.31", "apk": "dist/quiz-v1.31.apk", "name": "quiz-v1.31.apk", "size": 942150, "published": "2026-11-11", "notes": "深检修复：备份与清除数据现在覆盖六级写作草稿/阅读/翻译/匹配记录"}
