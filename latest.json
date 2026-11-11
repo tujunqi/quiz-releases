@@ -1,1 +1,1 @@
-{"ver": "1.31", "tag": "v1.31", "apk": "dist/quiz-v1.31.apk", "name": "quiz-v1.31.apk", "size": 942150, "published": "2026-11-11", "notes": "深检修复：备份与清除数据现在覆盖六级写作草稿/阅读/翻译/匹配记录"}
+{"ver": "1.32", "tag": "v1.32", "apk": "dist/quiz-v1.32.apk", "name": "quiz-v1.32.apk", "size": 942150, "published": "2026-11-11", "notes": "判分改判：会了的题可改判成不会/蒙对，不重复计分"}
