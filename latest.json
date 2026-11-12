@@ -1,9 +1,1 @@
-{
-  "ver": "1.38",
-  "tag": "v1.38",
-  "apk": "dist/quiz-v1.38.apk",
-  "name": "quiz-v1.38.apk",
-  "size": 962702,
-  "published": "2026-11-12",
-  "notes": "匿名做题统计接通云端（腾讯云开发云函数 + PostgreSQL），开关默认关闭，开启后每天一条匿名快照；不含任何身份信息"
-}
+{"ver": "1.39", "tag": "v1.39", "apk": "dist/quiz-v1.39.apk", "name": "quiz-v1.39.apk", "size": 966798, "published": "2026-11-12", "notes": "微观学习第二讲细化：3节11点+12模拟题（需求供给/弹性/管制税收）"}
