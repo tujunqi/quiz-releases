@@ -1,1 +1,1 @@
-{"ver": "1.42", "tag": "v1.42", "apk": "dist/quiz-v1.42.apk", "name": "quiz-v1.42.apk", "size": 995470, "published": "2026-11-12", "notes": "修复分段卡死bug + 微观刷题两分支/学习页简化"}
+{"ver": "1.43", "tag": "v1.43", "apk": "dist/quiz-v1.43.apk", "name": "quiz-v1.43.apk", "size": 995470, "published": "2026-11-14", "notes": "UI 全面改版：blueprint editorial 编辑风（纸感卡片+黑描边+硬阴影+蓝橙撞色）"}
