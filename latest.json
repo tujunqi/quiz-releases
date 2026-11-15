@@ -1,1 +1,1 @@
-{"ver": "1.48", "tag": "v1.48", "apk": "dist/quiz-v1.48.apk", "name": "quiz-v1.48.apk", "size": 999566, "published": "2026-11-15", "notes": "回退六级仔细阅读逐题模式：恢复折叠段落+定位原版体验（其余不动）"}
+{"ver": "1.49", "tag": "v1.49", "apk": "dist/quiz-v1.49.apk", "name": "quiz-v1.49.apk", "size": 999566, "published": "2026-11-15", "notes": "修复微观m1_1交叉弹性算术错误 + 全库算术自检器（202条复算0不一致）"}
