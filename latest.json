@@ -1,1 +1,1 @@
-{"ver": "1.49", "tag": "v1.49", "apk": "dist/quiz-v1.49.apk", "name": "quiz-v1.49.apk", "size": 999566, "published": "2026-11-15", "notes": "修复微观m1_1交叉弹性算术错误 + 全库算术自检器（202条复算0不一致）"}
+{"ver": "1.50", "tag": "v1.50", "apk": "dist/quiz-v1.50.apk", "name": "quiz-v1.50.apk", "size": 999566, "published": "2026-11-16", "notes": "微观几何图补全：m1_2/m1_5/m1_6/tb2_01 四题配 SVG 几何图形（题目图/答案图引擎）"}
