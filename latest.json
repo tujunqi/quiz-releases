@@ -1,9 +1,9 @@
 {
-  "ver": "1.67",
-  "tag": "v1.67",
-  "apk": "dist/quiz-v1.67.apk",
-  "name": "quiz-v1.67.apk",
+  "ver": "1.68",
+  "tag": "v1.68",
+  "apk": "dist/quiz-v1.68.apk",
+  "name": "quiz-v1.68.apk",
   "size": "1044622",
   "published": "2026-11-22",
-  "notes": "期末模拟卷成绩自动存档：我的-期末成绩单可查历次成绩(学科/总分/分题型/时间，保留50次)；修复合并节名重复与存档分块0分"
+  "notes": "修复检查更新下载渠道：gh-proxy主源被封，主源切ghfast.top(raw latest.json+APK直链)，jsDelivr兜底；全库字体符号清理(6种冷门字符替换)；DS第四章章号undefined修复"
 }
