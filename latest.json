@@ -1,9 +1,9 @@
 {
-  "ver": "1.68",
-  "tag": "v1.68",
-  "apk": "dist/quiz-v1.68.apk",
-  "name": "quiz-v1.68.apk",
-  "size": "1044622",
+  "ver": "1.69",
+  "tag": "v1.69",
+  "apk": "dist/quiz-v1.69.apk",
+  "name": "quiz-v1.69.apk",
+  "size": "1056910",
   "published": "2026-11-22",
-  "notes": "修复检查更新下载渠道：gh-proxy主源被封，主源切ghfast.top(raw latest.json+APK直链)，jsDelivr兜底；全库字体符号清理(6种冷门字符替换)；DS第四章章号undefined修复"
+  "notes": "数据结构第五章树入库：学习页6节14点+题库30题(性质/遍历/哈夫曼/BST)；修复切学科渲染中断(chapterNames缺5)"
 }
