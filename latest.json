@@ -1,9 +1,9 @@
 {
-  "ver": "1.76",
-  "tag": "v1.76",
-  "apk": "dist/quiz-v1.76.apk",
-  "name": "quiz-v1.76.apk",
+  "ver": "1.77",
+  "tag": "v1.77",
+  "apk": "dist/quiz-v1.77.apk",
+  "name": "quiz-v1.77.apk",
   "size": 1106127,
-  "published": "2026-11-24",
-  "notes": "上报标识每日轮换：同一天恒定防覆盖，跨天不可关联；只统计每日设备数与总量"
+  "published": "2026-11-25",
+  "notes": "我的页精简、学情报告选科+导出、反馈提交不再谎报成功"
 }
