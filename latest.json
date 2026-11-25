@@ -1,9 +1,9 @@
 {
-  "ver": "1.77",
-  "tag": "v1.77",
-  "apk": "dist/quiz-v1.77.apk",
-  "name": "quiz-v1.77.apk",
+  "ver": "1.78",
+  "tag": "v1.78",
+  "apk": "dist/quiz-v1.78.apk",
+  "name": "quiz-v1.78.apk",
   "size": 1106127,
   "published": "2026-11-25",
-  "notes": "我的页精简、学情报告选科+导出、反馈提交不再谎报成功"
+  "notes": "修复了一些已知的问题。"
 }
