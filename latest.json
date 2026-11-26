@@ -1,9 +1,9 @@
 {
-  "ver": "1.78",
-  "tag": "v1.78",
-  "apk": "dist/quiz-v1.78.apk",
-  "name": "quiz-v1.78.apk",
-  "size": 1106127,
-  "published": "2026-11-25",
-  "notes": "修复了一些已知的问题。"
+  "ver": "1.79",
+  "tag": "v1.79",
+  "apk": "dist/quiz-v1.79.apk",
+  "name": "quiz-v1.79.apk",
+  "size": 1176053,
+  "published": "2026-11-26",
+  "notes": "新增科目：金融学、马原"
 }
