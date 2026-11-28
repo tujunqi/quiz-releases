@@ -1,9 +1,9 @@
 {
-  "ver": "1.79",
-  "tag": "v1.79",
-  "apk": "dist/quiz-v1.79.apk",
-  "name": "quiz-v1.79.apk",
-  "size": 1176053,
-  "published": "2026-11-26",
-  "notes": "新增科目：金融学、马原"
+ "ver": "1.80",
+ "tag": "v1.80",
+ "apk": "dist/quiz-v1.80.apk",
+ "name": "quiz-v1.80.apk",
+ "size": 1171957,
+ "published": "2026-11-28",
+ "notes": "微观经济学题库按真题重建，匿名统计默认开启并强化隐私保护。"
 }
